@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="787912c8-a0d5-49f9-b5db-2e869d51ea42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitigore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABOUTME.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_101_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_1021_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_1047_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_104_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_111_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_15_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_189_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_21_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_236_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_242_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_24_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_257_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_26_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_441_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_49_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_50_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_783_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_88_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/LeetCode_938_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/学习总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_1/数据结构与算法理解.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_10/Leecode-101-10 .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_10/Leecode-1021-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_10/Leecode-174-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_10/Leecode-189-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_10/Leecode-21-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_10/Leecode-236-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_10/Leecode-24-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_10/Leecode-257-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_10/Leecode-42-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_10/Leecode-49-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_10/Leecode-50-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_10/Leecode-84-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_11/LeetCode_101_11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_11/LeetCode_189_11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_11/LeetCode_26_11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_11/LeetCode_49_11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_12/LeetCode_15_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_12/LeetCode_189_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_12/LeetCode_21_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_12/LeetCode_242_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_12/LeetCode_24_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_12/LeetCode_26_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_12/LeetCode_49_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_12/LeetCode_88_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_12/学习总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_12/数据结构与算法.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_13/LeetCode_101_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_13/LeetCode_15_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_13/LeetCode_174_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_13/LeetCode_189_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_13/LeetCode_21_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_13/LeetCode_236_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_13/LeetCode_24_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_13/LeetCode_26_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_13/LeetCode_42_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_13/LeetCode_441_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_13/LeetCode_49_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_13/LeetCode_50_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_13/LeetCode_88_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_15/LeetCode_189_015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_15/LeetCode_26_015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_16/242" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_16/74" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_16/algorithm.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_17/LeetCode_15_17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_17/LeetCode_84_17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_17/数据结构与算法.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_18/LeetCode_101_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_18/LeetCode_1021_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_18/LeetCode_1047_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_18/LeetCode_104_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_18/LeetCode_15_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_18/LeetCode_189_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_18/LeetCode_21_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_18/LeetCode_242_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_18/LeetCode_26_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_18/LeetCode_441_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_18/LeetCode_49_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_18/LeetCode_50_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_18/算法和数据结构学习脑图.mindmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_19/LeetCode_189_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_19/LeetCode_26_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_2/002_DataStructureAlgorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_2/LeetCode101_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_2/LeetCode_104_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_2/LeetCode_111_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_2/LeetCode_15_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_2/LeetCode_235_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_2/LeetCode_236_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_2/LeetCode_24_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_2/LeetCode_49_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_2/LeetCode_50_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_2/LeetCode_783_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_20/leetcode_189_20.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_20/leetcode_21_20.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_22/LeetCode_1047_022.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_22/LeetCode_104_022.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_22/LeetCode_189_022.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_22/LeetCode_242_022.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_22/LeetCode_26_022.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_22/LeetCode_441_022.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_22/数据结构&amp;算法.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_23/LeetCode_26_23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_23/LeetCode_88_23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_23/数据结构和算法_Eva.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_24/LeetCode_189_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_24/LeetCode_26_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_24/LeetCode_441_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_24/LeetCode_88_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_24/算法和数据结构学习脑图-V1.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_25/LeetCode_24_025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_25/LeetCode_42_025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_25/LeetCode_62_025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_25/LeetCode_72_025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_25/TaskView.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_101_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_1021_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_1047_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_104_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_111_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_15_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_174_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_189_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_21_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_236_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_242_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_24_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_257_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_26_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_42_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_441_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_49_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_50_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_783_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_84_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_88_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_26/LeetCode_938_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_27/123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_27/leedcode_783_027" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_27/leetcode_441_027" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_27/leetcode_783_027" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_29/Algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_29/LeetCode_021_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_29/LeetCode_024_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_29/LeetCode_026_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_29/LeetCode_049_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_29/LeetCode_050_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_29/LeetCode_088_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_29/LeetCode_104_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_29/LeetCode_189_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_29/LeetCode_242_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_29/LeetCode_257_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_29/LeetCode_938_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_29/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/array/15/LeetCode_15_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/array/15/LeetCode_15_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/array/15/test_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/array/189/LeetCode_189_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/array/189/LeetCode_189_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/array/189/test_189.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/array/26/LeetCode_26_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/array/26/test_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/array/88/LeetCode_88_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/array/88/LeetCode_88_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/array/88/test_88.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/bs/441/LeetCode_441_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/bs/441/LeetCode_441_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/bs/441/test_441.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/bs/bs_basis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/hash/242/LeetCode_242_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/hash/242/test_242.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/hash/49/LeetCode_49_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/hash/49/test_49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/linked/21/LeetCode_21_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/linked/21/LeetCode_21_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/linked/21/test_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/linked/24/LeetCode_24_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/linked/24/LeetCode_24_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/linked/24/test_24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/101/LeetCode_101_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/101/LeetCode_101_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/101/LeetCode_101_3_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/101/test_101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/104/LeetCode_104_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/104/LeetCode_104_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/104/test_104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/236/LeetCode_236_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/236/test_236.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/257/LeetCode_257_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/322/LeetCode_322_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/783/LeetCode_783_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/783/LeetCode_783_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/recursion/783/LeetCode_783_3_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/stack_queue/1021/LeetCode_1021_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/stack_queue/1021/LeetCode_1021_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/stack_queue/1021/test_1021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_3/stack_queue/1047/LeetCode_1047_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_101_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_1047_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_104_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_111_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_15_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_189_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_21_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_236_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_242_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_24_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_257_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_26_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_441_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_49_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_50_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_783_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_84_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_88_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/LeetCode_938_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_30/Mind Graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_32/189 Rotate Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_32/26.Remove Duplicates from Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_33/LeetCode_101_033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_33/LeetCode_104_033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_33/LeetCode_24_033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_33/LeetCode_26_033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_33/LeetCode_49_033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_33/LeetCode_50_033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_33/数据结构与算法脑图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_34/leetcode-189.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_34/leetcode-26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_35/LeetCode_189_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_35/LeetCode_26_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_36/LeeCode_1047_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_36/LeeCode_242_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_36/LeetCode_26_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_36/数据结构与算法.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_37/Map和Set/LeetCode_049_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_37/Map和Set/LeetCode_242_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_37/数组和链表/LeetCode_015_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_37/数组和链表/LeetCode_021_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_37/数组和链表/LeetCode_024_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_37/数组和链表/LeetCode_026_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_37/数组和链表/LeetCode_088_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_37/递归/LeetCode_101_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_37/递归/LeetCode_104_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_37/递归/LeetCode_111_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_37/递归/LeetCode_257_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_38/LeetCode_104_038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_38/LeetCode_15_038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_38/LeetCode_242_038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_38/LeetCode_26_038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_38/LeetCode_50_038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_38/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_38/数据结构与算法总结.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_101_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_1021_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_1047_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_104_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_111_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_141_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_15_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_189_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_21_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_236_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_242_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_24_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_257_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_26_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_441_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_49_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_50_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_84_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/LeetCode_88_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_39/算法与数据结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_40/LeetCode_24_40.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_40/LeetCode_49_40.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_40/LeetCode_50_40.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_40/数据结构与算法.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_41/LeetCode_101_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_41/LeetCode_104_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_41/LeetCode_111_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_41/LeetCode_174_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_41/LeetCode_257_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_41/LeetCode_263_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_41/LeetCode_26_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_41/LeetCode_338_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_41/LeetCode_441_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_41/LeetCode_50_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_41/LeetCode_783_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_41/LeetCode_938_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_42/LeetCode_174_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_42/LeetCode_368_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_42/数据结构和算法.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_5/LeetCode_15_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_5/LeetCode_21_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_7/LeetCode_189_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_7/LeetCode_21_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_7/LeetCode_26_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_7/LeetCode_283_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_7/LeetCode_66_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_7/LeetCode_70_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_7/LeetCode_88_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_8/Leetcode_189_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_8/Leetcode_26_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_8/杨波_算法训练营_上海_思维导图.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_9/LeetCode_104_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_9/LeetCode_236_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_9/LeetCode_26_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_9/LeetCode_50_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/id_9/数据结构与算法脑图.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_101_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_102_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_103_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_111_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_235_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_236_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_242_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_692_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_726_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_783_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_938_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/LeetCode_98_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_1/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_10/Leecode-102-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_10/Leecode-103-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_10/Leecode-242-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_10/Leecode-3-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_10/Leecode-692-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_10/Leecode-726-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_10/Leecode-783-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_10/Leecode-938-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_10/Leecode-98-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_12/LeetCode_1_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_12/LeetCode_242_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_12/LeetCode_3_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_12/学习总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_13/LeetCode_101_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_13/LeetCode_102_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_13/LeetCode_103_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_13/LeetCode_111_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_13/LeetCode_236_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_13/LeetCode_297_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_13/LeetCode_3_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_13/LeetCode_692_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_13/LeetCode_726_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_13/LeetCode_938_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_13/LeetCode_98_013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_14/LeetCode_111_14.py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_14/LeetCode_1_14.py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_14/LeetCode_242_14.py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_14/LeetCode_3_14.py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_14/LeetCode_692_14.py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_15/LeetCode_1_015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_15/LeetCode_242_015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_15/LeetCode_3_015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_17/LeetCode_3_17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_17/LeetCoe_236_17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_18/LeetCode_111_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_18/LeetCode_1_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_18/LeetCode_235_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_18/LeetCode_236_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_18/LeetCode_242_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_18/LeetCode_3_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_18/LeetCode_783_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_2/LeetCode_101_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_2/LeetCode_102_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_2/LeetCode_103_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_2/LeetCode_111_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_2/LeetCode_235_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_2/LeetCode_236_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_2/LeetCode_3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_2/LeetCode_692_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_2/LeetCode_783_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_2/LeetCode_938_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_2/LeetCode_98_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_2/SummaryAndReview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_22/LeetCode_111_022.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_22/LeetCode_1_022.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_22/LeetCode_783_022.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_23/LeetCode_03_23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_23/LeetCode_111_23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_24/LeetCode_1_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_24/LeetCode_242_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_24/LeetCode_3_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_24/LeetCode_692_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_24/LeetCode_726_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_25/LeetCode_24_025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_25/LeetCode_72_025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_101_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_102_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_103_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_111_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_1_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_220_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_235_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_236_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_242_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_297_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_315_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_3_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_692_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_783_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_938_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_26/LeetCode_98_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_29/LeetCode_001_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_29/LeetCode_003_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_29/LeetCode_098_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_29/LeetCode_100_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_29/LeetCode_102_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_29/LeetCode_103_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_29/LeetCode_111_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_29/LeetCode_236_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_29/LeetCode_242_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_29/LeetCode_692_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_29/LeetCode_938_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_29/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/bstree/220/LeetCode_220_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/bstree/220/LeetCode_220_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/bstree/220/LeetCode_220_3_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/bstree/235/LeetCode_235_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/bstree/315/LeetCode_315_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/bstree/938/LeetCode_938_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/bstree/98/LeetCode_98_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/bstree/98/LeetCode_98_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/bstree/98/LeetCode_98_3_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/hash/1/LeetCode_1_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/hash/242/LeetCode_242_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/hash/3/LeetCode_3_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/hash/692/LeetCode_692_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/hash/726/LeetCode_726_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/hash/726/LeetCode_726_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/hash/726/test_726.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/tree/LeetCode_101_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/tree/LeetCode_103_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/tree/LeetCode_103_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/tree/LeetCode_10_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/tree/LeetCode_111_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/tree/LeetCode_111_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/tree/LeetCode_297_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_3/tree/test_297.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_30/LeetCode_102_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_30/LeetCode_103_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_30/LeetCode_220_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_30/LeetCode_3_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_30/LeetCode_692_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_30/LeetCode_726_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_30/LeetCode_98_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_32/1. 两数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_32/242. 有效的字母异位词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_33/Leetcode_111_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_33/Leetcode_1_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_33/Leetcode_3_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_33/Leetcode_98_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_35/LeetCode_03_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_35/LeetCode_242_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_35/Leetcode_01_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_36/LeetCode_101_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_36/LeetCode_111_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_36/LeetCode_1_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_36/LeetCode_236_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_36/LeetCode_3_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_37/二叉搜索树/LeetCode_783_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_37/二叉树/LeetCode_101_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_37/二叉树/LeetCode_111_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_37/二叉树/LeetCode_236_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_37/哈希表/LeetCode_1_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_37/哈希表/LeetCode_242_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_37/哈希表/LeetCode_3_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_38/LeetCode_01_038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_38/LeetCode_111_038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_38/LeetCode_242_038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_38/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_40/LeetCode_101_40.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_40/LeetCode_102_40.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_40/LeetCode_3_40.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_40/LeetCode_98_40.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_41/LeetCode_101_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_41/LeetCode_103_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_41/LeetCode_111_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_41/LeetCode_1_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_41/LeetCode_220_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_41/LeetCode_242_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_41/LeetCode_315_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_41/LeetCode_3_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_41/LeetCode_692_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_41/LeetCode_726_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_41/LeetCode_783_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_41/LeetCode_938_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_42/LeetCode_242_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_42/LeetCode_3_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_5/LeetCode_1_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_5/LeetCode_3_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_6/LeetCode_101_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_6/LeetCode_102_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_6/LeetCode_103_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_6/LeetCode_3_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_6/LeetCode_938_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_6/LeetCode_98_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_7/LeetCode_101_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_7/LeetCode_111_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_7/LeetCode_1_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_7/LeetCode_242_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_7/LeetCode_3_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_7/LeetCode_726_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_7/LeetCode_783_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_8/Leetcode_236_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_8/Leetcode_242_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_9/LeetCode_242_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/id_9/LeetCode_98_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_1/LeetCode_102_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_1/LeetCode_103_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_1/LeetCode_104_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_1/LeetCode_107_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_1/LeetCode_111_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_1/LeetCode_200_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_1/LeetCode_429_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_1/LeetCode_547_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_1/LeetCode_703_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_1/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_10/Leecode-104-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_10/Leecode-111-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_10/Leecode-200-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_10/Leecode-210-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_10/Leecode-310-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_10/Leecode-529-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_10/Leecode-703-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_10/Leecode-802-10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_12/LeetCode_200_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_12/LeetCode_210_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_12/LeetCode_295_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_12/LeetCode_703_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_12/学习总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_14/LeetCode_104_14.py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_14/LeetCode_429_14.py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_14/LeetCode_703_14.py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_15/LeetCode_200_015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_15/LeetCode_210_015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_17/LeetCode_200_17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_17/LeetCode_547_17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_18/LeetCode_102_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_18/LeetCode_104_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_18/LeetCode_111_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_18/LeetCode_200_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_18/LeetCode_210_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_18/LeetCode_295_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_18/LeetCode_429_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_18/LeetCode_547_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_18/LeetCode_703_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_2/LeetCode_103_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_2/LeetCode_111_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_2/LeetCode_200_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_2/LeetCode_310_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_2/LeetCode_429_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_2/LeetCode_547_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_2/LeetCode_703_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_2/LeetCode_802_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_2/Summary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_23/LeetCode_104.1_23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_23/LeetCode_104.2_23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_24/LeetCode_104_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_24/LeetCode_111_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_24/LeetCode_200_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_24/LeetCode_703_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_24/LeetCode_703_024_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_25/LeetCode_200_025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_25/LeetCode_322_025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_26/LeetCode_102_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_26/LeetCode_104_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_26/LeetCode_107_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_26/LeetCode_111_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_26/LeetCode_200_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_26/LeetCode_295_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_26/LeetCode_329_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_26/LeetCode_429_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_26/LeetCode_547_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_26/LeetCode_703_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_26/LeetCode_802_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_29/Leetcode_104_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_29/Leetcode_111_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_29/Leetcode_200_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_29/Leetcode_210_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_29/Leetcode_703_29.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_29/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/bfs/LeetCode_103_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/bfs/LeetCode_310_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/bfs/LeetCode_310_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/bfs/LeetCode_310_3_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/dfs/LeetCode_127_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/dfs/LeetCode_127_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/dfs/LeetCode_329_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/dfs/LeetCode_529_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/graph/LeetCode_200_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/graph/LeetCode_207_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/graph/LeetCode_207_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/graph/LeetCode_210_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/graph/LeetCode_210_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/heap/LeetCode_295_3_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/heap/LeetCode_295_3_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_3/heap/LeetCode_703_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_30/LeetCode_200_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_30/LeetCode_210_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_30/LeetCode_529_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_30/LeetCode_547_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_30/LeetCode_802_030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_33/Leetcode_102_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_33/Leetcode_127_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_33/Leetcode_200_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_33/Leetcode_295_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_33/Leetcode_703_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_35/Leetcode_102_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_35/Leetcode_103_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_35/Leetcode_104_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_35/Leetcode_107_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_35/Leetcode_111_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_35/Leetcode_429_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_36/LeetCode_102_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_36/LeetCode_104_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_36/LeetCode_107_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_36/LeetCode_111_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_36/LeetCode_200_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_36/LeetCode_429_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_36/小组讨论的数据结构与算法的思维导图.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_37/LeetCode_102_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_37/LeetCode_200_037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_38/LeetCode_104_038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_38/LeetCode_111_038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_38/LeetCode_200_038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_38/LeetCode_703_038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_38/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_39/LeetCode_102_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_39/LeetCode_103_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_39/LeetCode_107_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_39/LeetCode_200_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_39/LeetCode_329_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_39/LeetCode_429_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_39/LeetCode_529_39.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_41/LeetCode_102_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_41/LeetCode_103_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_41/LeetCode_107_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_41/LeetCode_111_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_41/LeetCode_127_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_41/LeetCode_200_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_41/LeetCode_210_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_41/LeetCode_295_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_41/LeetCode_429_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_41/LeetCode_529_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_41/LeetCode_547_41.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_41/LeetCode_703_41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_42/leetCode_429_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_42/leetCode_703_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_6/LeetCode_104_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_6/LeetCode_111_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_6/LeetCode_200_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_6/LeetCode_210_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_6/LeetCode_295_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_6/LeetCode_320_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_6/LeetCode_329_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_6/LeetCode_547_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_6/LeetCode_703_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_6/LeetCode_802_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_7/703.数据流中的第k大元素.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_7/LeetCode_200_7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_8/Leetcode_104_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/id_8/Leetcode_703_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/id_8/Leetcode_455_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/id_8/Leetcode_70_8(2).java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/id_8/Leetcode_70_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_1/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_1/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_12/NOTE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_15/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_15/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_18/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_18/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_23/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_23/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_24/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_24/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_25/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_25/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_3/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_3/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_32/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_32/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_34/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_34/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_36/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_36/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_37/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_37/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_41/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_41/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_42/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_42/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_43/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_43/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_8/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_8/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/id_9/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/id_9/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/id_12/NOTE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/id_15/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/id_15/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/id_18/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/id_18/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/id_23/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/id_23/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/id_24/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/id_24/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/id_3/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/id_3/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/id_37/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/id_37/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/id_41/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/id_41/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/id_42/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/id_42/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/id_6/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/id_6/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/id_8/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/id_8/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/id_12/NOTE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/id_15/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/id_15/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/id_18/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/id_18/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/id_23/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/id_23/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/id_37/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/id_37/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/id_39/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/id_39/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/id_6/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/id_6/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/id_7/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/id_7/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/id_8/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/id_8/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_04/id_8/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_04/id_8/NOTE.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week_03/id_6/NOTE.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/90wan/kafka" value="PREVIEW" />
+        <entry key="$USER_HOME$/WhereHows" value="PREVIEW" />
+        <entry key="$USER_HOME$/elasticsearch" value="PREVIEW" />
+        <entry key="$USER_HOME$/temp/WhereHows" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Week_01/id_43/NOTE.md" />
+        <option value="$PROJECT_DIR$/Week_01/id_42/NOTE.md" />
+        <option value="$PROJECT_DIR$/Week_02/id_42/LeetCode_242_42.java" />
+        <option value="$PROJECT_DIR$/Week_02/id_42/LeetCode_3_42.java" />
+        <option value="$PROJECT_DIR$/Week_02/id_42/NOTE.md" />
+        <option value="$PROJECT_DIR$/Week_03/id_42/leetCode_429_42.java" />
+        <option value="$PROJECT_DIR$/Week_03/id_42/leetCode_703_42.java" />
+        <option value="$PROJECT_DIR$/Week_03/id_42/NOTE.md" />
+        <option value="$PROJECT_DIR$/Week_03/id_6/NOTE.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="112" />
+    <option name="y" value="40" />
+    <option name="width" value="1335" />
+    <option name="height" value="807" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-1" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-1" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_04" type="462c0819:PsiDirectoryNode" />
+              <item name="id_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561300341556" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_02/id_42" />
+      <recent name="$PROJECT_DIR$/Week_01/id_42" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_01/id_42" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="787912c8-a0d5-49f9-b5db-2e869d51ea42" name="Default Changelist" comment="" />
+      <created>1559387111388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559387111388</updated>
+      <workItem from="1559387112721" duration="1022000" />
+      <workItem from="1560077457915" duration="3954000" />
+      <workItem from="1560699351529" duration="1481000" />
+      <workItem from="1560737862211" duration="3000" />
+      <workItem from="1561299993467" duration="622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7100000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14346765" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30714285" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="LuaJ" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Week_01/id_43/NOTE.md" />
+    <entry file="file://$PROJECT_DIR$/Week_01/id_42/LeetCode_368_42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_01/id_42/NOTE.md" />
+    <entry file="file://$PROJECT_DIR$/Week_01/id_42/LeetCode_174_42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_02/id_42/LeetCode_242_42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_02/id_42/NOTE.md" />
+    <entry file="file://$PROJECT_DIR$/Week_02/id_42/LeetCode_3_42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/id_42/leetCode_429_42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/id_42/leetCode_703_42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/id_42/NOTE.md" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
